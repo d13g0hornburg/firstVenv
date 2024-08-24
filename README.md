@@ -43,7 +43,7 @@ d-----        24/08/2024     14:53                Scripts
 -a----        24/08/2024     14:53            193 pyvenv.cfg
 ```
 </details>
-<details><summary><h2>Criar ambiente virtual via PS</h2></summary>
+<details><summary><h2>Ativar o ambiente virtual via PS</h2></summary>
 Ambiente criado corretamente, basta ativar para começar a trabalhar no projeto de forma isolada. Faça isso executando o script de ativação com o comando abaixo.
 
 ```sh
@@ -52,3 +52,4 @@ PS C:\Users\Diego\Documents\firstVenv> .\firstVenv\Scripts\Activate.ps1
 Se até aqui tudo ocorrer bem, você pode incluir seus arquivos do projeto em python em um ambiente virtual isolado e seguro.
 
 **OBS**: Suba seus arquivos para o .github, configure o  arquivo .gitignore e para envio apenas do que for necessário e documente os passos criando um arquivo README.md de fácil compreensão.
+</details>
