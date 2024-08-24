@@ -51,5 +51,5 @@ PS C:\Users\Diego\Documents\firstVenv> .\firstVenv\Scripts\Activate.ps1
 ```
 Se até aqui tudo ocorrer bem, você pode incluir seus arquivos do projeto em python em um ambiente virtual isolado e seguro.
 
-**OBS**: Suba seus arquivos para o .github, configure o  arquivo .gitignore e para envio apenas do que for necessário e documente os passos criando um arquivo README.md de fácil compreensão.
+**OBS**: Suba seus arquivos para o .github, configure o  arquivo .gitignore e envie apenas o que for necessário, documente os passos criando um arquivo README.md de fácil compreensão.
 </details>
